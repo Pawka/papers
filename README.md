@@ -6,3 +6,4 @@ My personal repository of papers I'm reading or going to read.
 
 ### 2017-01
 - Holistic Configuration Management at Facebook
+- Paxos Made Simple
