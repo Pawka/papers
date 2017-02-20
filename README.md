@@ -12,3 +12,4 @@ My personal repository of papers I'm reading or going to read.
 ### 2017-02
 - Consistent Hashing and Random Trees
 - The Zettabyte File System
+- Google Infrastructure Security Design Overview
